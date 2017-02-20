@@ -1,0 +1,12 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\bin\Debug\DefiningClases.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\bin\Debug\DefiningClases.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\bin\Debug\DefiningClases.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\obj\Debug\Definea lassDog.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\obj\Debug\DefiningClases.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\DefiningClases\DefiningClases\obj\Debug\DefiningClases.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\DefiningClases\DefiningClases\bin\Debug\DefiningClases.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\DefiningClases\DefiningClases\obj\Debug\DefiningClases.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\DefiningClases\DefiningClases\obj\Debug\DefiningClases.pdb
+M:\proekti\c#\OOPBasic\DefiningClases\DefiningClases\bin\Debug\DefiningClases.exe.config
+M:\proekti\c#\OOPBasic\DefiningClases\DefiningClases\obj\Debug\DefiningClases.exe
+M:\proekti\c#\OOPBasic\DefiningClases\DefiningClases\obj\Debug\DefiningClases.pdb
